@@ -1,0 +1,12 @@
+{
+   label = "I",
+   tooltip = "Alphabet",
+   lightLevel = 0,
+   shapes = {
+		{0,0,1,16,16,16, texture="quartz_block_side"},
+		{7,3,0,7,10,1, texture="obsidian"},
+		{7,11,0,7,13,1, texture="obsidian"},
+		{8,3,0,8,10,1, texture="obsidian"},
+		{8,11,0,8,13,1, texture="obsidian"},
+	}
+}

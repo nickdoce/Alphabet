@@ -1,0 +1,24 @@
+{
+   label = "A",
+   tooltip = "Abecedario",
+   lightLevel = 0,
+   shapes = {
+		{0,0,1,16,16,16, texture="quartz_block_side"},
+		{3,3,0,3,12,1, texture="obsidian"},
+		{4,3,0,4,13,1, texture="obsidian"},
+		{5,7,0,5,9,1, texture="obsidian"},
+		{5,11,0,5,13,1, texture="obsidian"},
+		{6,7,0,6,9,1, texture="obsidian"},
+		{6,11,0,6,13,1, texture="obsidian"},
+		{7,7,0,7,9,1, texture="obsidian"},
+		{7,11,0,7,13,1, texture="obsidian"},
+		{8,7,0,8,9,1, texture="obsidian"},
+		{8,11,0,8,13,1, texture="obsidian"},
+		{9,7,0,9,9,1, texture="obsidian"},
+		{9,11,0,9,13,1, texture="obsidian"},
+		{10,7,0,10,9,1, texture="obsidian"},
+		{10,11,0,10,13,1, texture="obsidian"},
+		{11,3,0,11,13,1, texture="obsidian"},
+		{12,3,0,12,12,1, texture="obsidian"},
+	}
+}
